@@ -3,7 +3,7 @@
 - 📫 How to reach me [WhatsApp](https://wa.me/2348098309204)
 
 # 💫 About Me:
-🔭 I’m currently working on a WhatsApp bot, API<br>👯 I’m looking to collaborate on front-end or backend-project<br>🤝 I’m looking for help with WhatsApp bots<br>🌱 I’m currently learning CSS, JS,react, react-native, flutter ...<br>💬 Ask me about anything about python, javascript<br>⚡ Fun fact I'm a programmer 😂
+🔭 I’m currently working on self improvement(css, and design skils)<br>👯 I’m looking to collaborate on front-end or backend-project<br>🤝 I’m looking for help with WhatsApp bots<br>🌱 I’m currently learning react, react-native, flutter ...<br>💬 Ask me about anything about python, javascript<br>⚡ Fun fact I'm a programmer 😂
 
 
 ## 🌐 Socials:
